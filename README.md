@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning PHP/MYSQL/ReactJS
 - 📫 How to reach me: 
    1. [website](https://www.mihaivatavu.com/)
-   2. [linkedin](www.linkedin.com/in/gmvatavu)
+   2. [linkedin](https://www.linkedin.com/in/gmvatavu)
 - ⚡ Fun fact: Build everything under close supervision of my cat
